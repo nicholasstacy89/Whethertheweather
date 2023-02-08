@@ -94,9 +94,9 @@ This Challenge is graded based on the following criteria:
 
 You are required to submit BOTH of the following for review:
 
-* The URL of the functional, deployed application.
+* The URL of the functional, deployed application.   https://nicholasstacy89.github.io/Whethertheweather/
 
-* The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
+* The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.  https://github.com/nicholasstacy89/Whethertheweather
 
 - - -
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
